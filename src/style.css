@@ -1,0 +1,19 @@
+p {
+    width: 80% !important;
+    text-align:justify;
+}
+hr {
+    width: 20%;
+    text-align:right;
+    margin-Left: 0;
+    
+}
+
+.color-blue {
+    color: skyblue !important;
+}
+
+#articles {
+    background-color: antiquewhite;
+
+}
